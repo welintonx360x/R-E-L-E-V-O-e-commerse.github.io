@@ -444,6 +444,9 @@ footer{
         list-style: none;
         
       }
+    ion-icon {
+        color:#000000;
+    }
       button {
         background: none;
         font: inherit;
